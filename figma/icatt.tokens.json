@@ -75,6 +75,396 @@
           }
         }
       },
+      "space": {
+        "inline": {
+          "flea": {
+            "$type": "spacing",
+            "$value": "2px"
+          },
+          "ant": {
+            "$type": "spacing",
+            "$value": "4px"
+          },
+          "beetle": {
+            "$type": "spacing",
+            "$value": "8px"
+          },
+          "snail": {
+            "$type": "spacing",
+            "$value": "12px"
+          },
+          "mouse": {
+            "$type": "spacing",
+            "$value": "16px"
+          },
+          "rat": {
+            "$type": "spacing",
+            "$value": "20px"
+          },
+          "rabbit": {
+            "$type": "spacing",
+            "$value": "24px"
+          },
+          "cat": {
+            "$type": "spacing",
+            "$value": "28px"
+          },
+          "dog": {
+            "$type": "spacing",
+            "$value": "32px"
+          },
+          "pig": {
+            "$type": "spacing",
+            "$value": "48px"
+          }
+        },
+        "block": {
+          "flea": {
+            "$type": "spacing",
+            "$value": "2px"
+          },
+          "ant": {
+            "$type": "spacing",
+            "$value": "4px"
+          },
+          "beetle": {
+            "$type": "spacing",
+            "$value": "8px"
+          },
+          "snail": {
+            "$type": "spacing",
+            "$value": "12px"
+          },
+          "mouse": {
+            "$type": "spacing",
+            "$value": "16px"
+          },
+          "rat": {
+            "$type": "spacing",
+            "$value": "20px"
+          },
+          "rabbit": {
+            "$type": "spacing",
+            "$value": "24px"
+          },
+          "cat": {
+            "$type": "spacing",
+            "$value": "32px"
+          },
+          "dog": {
+            "$type": "spacing",
+            "$value": "48px"
+          },
+          "pig": {
+            "$type": "spacing",
+            "$value": "64px"
+          }
+        },
+        "text": {
+          "flea": {
+            "$type": "spacing",
+            "$value": "1px",
+            "$description": "0.125ch"
+          },
+          "ant": {
+            "$type": "spacing",
+            "$value": "2px",
+            "$description": "0.25ch"
+          },
+          "beetle": {
+            "$type": "spacing",
+            "$value": "4px",
+            "$description": "0.5ch"
+          },
+          "snail": {
+            "$type": "spacing",
+            "$value": "6px",
+            "$description": "0.75ch"
+          },
+          "mouse": {
+            "$type": "spacing",
+            "$value": "8px",
+            "$description": "1ch"
+          },
+          "rat": {
+            "$type": "spacing",
+            "$value": "12px",
+            "$description": "1.5ch"
+          },
+          "rabbit": {
+            "$type": "spacing",
+            "$value": "14px",
+            "$description": "1.75ch"
+          },
+          "cat": {
+            "$type": "spacing",
+            "$value": "16px",
+            "$description": "2ch"
+          },
+          "dog": {
+            "$type": "spacing",
+            "$value": "24px",
+            "$description": "3ch"
+          }
+        },
+        "column": {
+          "flea": {
+            "$type": "spacing",
+            "$value": "1px"
+          },
+          "ant": {
+            "$type": "spacing",
+            "$value": "2px"
+          },
+          "beetle": {
+            "$type": "spacing",
+            "$value": "4px"
+          },
+          "snail": {
+            "$type": "spacing",
+            "$value": "8px"
+          },
+          "mouse": {
+            "$type": "spacing",
+            "$value": "12px"
+          },
+          "rat": {
+            "$type": "spacing",
+            "$value": "16px"
+          },
+          "rabbit": {
+            "$type": "spacing",
+            "$value": "20px"
+          },
+          "cat": {
+            "$type": "spacing",
+            "$value": "24px"
+          },
+          "dog": {
+            "$type": "spacing",
+            "$value": "28px"
+          },
+          "pig": {
+            "$type": "spacing",
+            "$value": "32px"
+          },
+          "tiger": {
+            "$type": "spacing",
+            "$value": "48px"
+          },
+          "horse": {
+            "$type": "spacing",
+            "$value": "64px"
+          },
+          "elephant": {
+            "$type": "spacing",
+            "$value": "96px"
+          },
+          "giraffe": {
+            "$type": "spacing",
+            "$value": "160px"
+          }
+        },
+        "row": {
+          "flea": {
+            "$type": "spacing",
+            "$value": "1px"
+          },
+          "ant": {
+            "$type": "spacing",
+            "$value": "2px"
+          },
+          "beetle": {
+            "$type": "spacing",
+            "$value": "4px"
+          },
+          "snail": {
+            "$type": "spacing",
+            "$value": "8px"
+          },
+          "mouse": {
+            "$type": "spacing",
+            "$value": "12px"
+          },
+          "rat": {
+            "$type": "spacing",
+            "$value": "16px"
+          },
+          "rabbit": {
+            "$type": "spacing",
+            "$value": "20px"
+          },
+          "cat": {
+            "$type": "spacing",
+            "$value": "24px"
+          },
+          "dog": {
+            "$type": "spacing",
+            "$value": "28px"
+          },
+          "pig": {
+            "$type": "spacing",
+            "$value": "32px"
+          },
+          "tiger": {
+            "$type": "spacing",
+            "$value": "48px"
+          },
+          "horse": {
+            "$type": "spacing",
+            "$value": "64px"
+          },
+          "elephant": {
+            "$type": "spacing",
+            "$value": "96px"
+          },
+          "giraffe": {
+            "$type": "spacing",
+            "$value": "160px"
+          }
+        }
+      },
+      "border-radius": {
+        "sm": {
+          "$type": "borderRadius",
+          "$value": "4px"
+        },
+        "md": {
+          "$type": "borderRadius",
+          "$value": "8px"
+        },
+        "lg": {
+          "$type": "borderRadius",
+          "$value": "16px"
+        },
+        "round": {
+          "$type": "borderRadius",
+          "$value": "999px"
+        }
+      },
+      "border-width": {
+        "sm": {
+          "$type": "borderWidth",
+          "$value": "1px"
+        },
+        "md": {
+          "$type": "borderWidth",
+          "$value": "2px"
+        },
+        "lg": {
+          "$type": "borderWidth",
+          "$value": "4px"
+        }
+      },
+      "size": {
+        "5xs": {
+          "$type": "sizing",
+          "$value": "2px"
+        },
+        "4xs": {
+          "$type": "sizing",
+          "$value": "4px"
+        },
+        "3xs": {
+          "$type": "sizing",
+          "$value": "8px"
+        },
+        "2xs": {
+          "$type": "sizing",
+          "$value": "16px"
+        },
+        "xs": {
+          "$type": "sizing",
+          "$value": "24px"
+        },
+        "sm": {
+          "$type": "sizing",
+          "$value": "32px"
+        },
+        "md": {
+          "$type": "sizing",
+          "$value": "48px"
+        },
+        "lg": {
+          "$type": "sizing",
+          "$value": "64px"
+        },
+        "xl": {
+          "$type": "sizing",
+          "$value": "96px"
+        },
+        "2xl": {
+          "$type": "sizing",
+          "$value": "160px"
+        },
+        "icon": {
+          "sm": {
+            "$type": "sizing",
+            "$value": "16px"
+          },
+          "md": {
+            "$type": "sizing",
+            "$value": "24px"
+          },
+          "lg": {
+            "$type": "sizing",
+            "$value": "24px"
+          },
+          "xl": {
+            "$type": "sizing",
+            "$value": "24px"
+          },
+          "2xl": {
+            "$type": "sizing",
+            "$value": "32px"
+          },
+          "3xl": {
+            "$type": "sizing",
+            "$value": "40px"
+          },
+          "4xl": {
+            "$type": "sizing",
+            "$value": "48px"
+          }
+        }
+      },
+      "box-shadow": {
+        "sm": {
+          "$type": "boxShadow",
+          "$value": {
+            "x": "0",
+            "y": "2",
+            "blur": "6",
+            "spread": "0",
+            "color": "{icatt.color.dark.alpha.100}",
+            "type": "dropShadow"
+          }
+        },
+        "md": {
+          "$type": "boxShadow",
+          "$value": {
+            "x": "0",
+            "y": "8",
+            "blur": "16",
+            "spread": "0",
+            "color": "{icatt.color.dark.alpha.100}",
+            "type": "dropShadow"
+          }
+        },
+        "lg": {
+          "$type": "boxShadow",
+          "$value": {
+            "x": "0",
+            "y": "16",
+            "blur": "48",
+            "spread": "0",
+            "color": "{icatt.color.dark.alpha.100}",
+            "type": "dropShadow"
+          }
+        }
+      }
+    },
+    "icatt": {
       "color": {
         "white": {
           "$type": "color",
@@ -522,394 +912,6 @@
             }
           }
         }
-      },
-      "space": {
-        "inline": {
-          "flea": {
-            "$type": "spacing",
-            "$value": "2px"
-          },
-          "ant": {
-            "$type": "spacing",
-            "$value": "4px"
-          },
-          "beetle": {
-            "$type": "spacing",
-            "$value": "8px"
-          },
-          "snail": {
-            "$type": "spacing",
-            "$value": "12px"
-          },
-          "mouse": {
-            "$type": "spacing",
-            "$value": "16px"
-          },
-          "rat": {
-            "$type": "spacing",
-            "$value": "20px"
-          },
-          "rabbit": {
-            "$type": "spacing",
-            "$value": "24px"
-          },
-          "cat": {
-            "$type": "spacing",
-            "$value": "28px"
-          },
-          "dog": {
-            "$type": "spacing",
-            "$value": "32px"
-          },
-          "pig": {
-            "$type": "spacing",
-            "$value": "48px"
-          }
-        },
-        "block": {
-          "flea": {
-            "$type": "spacing",
-            "$value": "2px"
-          },
-          "ant": {
-            "$type": "spacing",
-            "$value": "4px"
-          },
-          "beetle": {
-            "$type": "spacing",
-            "$value": "8px"
-          },
-          "snail": {
-            "$type": "spacing",
-            "$value": "12px"
-          },
-          "mouse": {
-            "$type": "spacing",
-            "$value": "16px"
-          },
-          "rat": {
-            "$type": "spacing",
-            "$value": "20px"
-          },
-          "rabbit": {
-            "$type": "spacing",
-            "$value": "24px"
-          },
-          "cat": {
-            "$type": "spacing",
-            "$value": "32px"
-          },
-          "dog": {
-            "$type": "spacing",
-            "$value": "48px"
-          },
-          "pig": {
-            "$type": "spacing",
-            "$value": "64px"
-          }
-        },
-        "text": {
-          "flea": {
-            "$type": "spacing",
-            "$value": "1px",
-            "$description": "0.125ch"
-          },
-          "ant": {
-            "$type": "spacing",
-            "$value": "2px",
-            "$description": "0.25ch"
-          },
-          "beetle": {
-            "$type": "spacing",
-            "$value": "4px",
-            "$description": "0.5ch"
-          },
-          "snail": {
-            "$type": "spacing",
-            "$value": "6px",
-            "$description": "0.75ch"
-          },
-          "mouse": {
-            "$type": "spacing",
-            "$value": "8px",
-            "$description": "1ch"
-          },
-          "rat": {
-            "$type": "spacing",
-            "$value": "12px",
-            "$description": "1.5ch"
-          },
-          "rabbit": {
-            "$type": "spacing",
-            "$value": "14px",
-            "$description": "1.75ch"
-          },
-          "cat": {
-            "$type": "spacing",
-            "$value": "16px",
-            "$description": "2ch"
-          },
-          "dog": {
-            "$type": "spacing",
-            "$value": "24px",
-            "$description": "3ch"
-          }
-        },
-        "column": {
-          "flea": {
-            "$type": "spacing",
-            "$value": "1px"
-          },
-          "ant": {
-            "$type": "spacing",
-            "$value": "2px"
-          },
-          "beetle": {
-            "$type": "spacing",
-            "$value": "4px"
-          },
-          "snail": {
-            "$type": "spacing",
-            "$value": "8px"
-          },
-          "mouse": {
-            "$type": "spacing",
-            "$value": "12px"
-          },
-          "rat": {
-            "$type": "spacing",
-            "$value": "16px"
-          },
-          "rabbit": {
-            "$type": "spacing",
-            "$value": "20px"
-          },
-          "cat": {
-            "$type": "spacing",
-            "$value": "24px"
-          },
-          "dog": {
-            "$type": "spacing",
-            "$value": "28px"
-          },
-          "pig": {
-            "$type": "spacing",
-            "$value": "32px"
-          },
-          "tiger": {
-            "$type": "spacing",
-            "$value": "48px"
-          },
-          "horse": {
-            "$type": "spacing",
-            "$value": "64px"
-          },
-          "elephant": {
-            "$type": "spacing",
-            "$value": "96px"
-          },
-          "giraffe": {
-            "$type": "spacing",
-            "$value": "160px"
-          }
-        },
-        "row": {
-          "flea": {
-            "$type": "spacing",
-            "$value": "1px"
-          },
-          "ant": {
-            "$type": "spacing",
-            "$value": "2px"
-          },
-          "beetle": {
-            "$type": "spacing",
-            "$value": "4px"
-          },
-          "snail": {
-            "$type": "spacing",
-            "$value": "8px"
-          },
-          "mouse": {
-            "$type": "spacing",
-            "$value": "12px"
-          },
-          "rat": {
-            "$type": "spacing",
-            "$value": "16px"
-          },
-          "rabbit": {
-            "$type": "spacing",
-            "$value": "20px"
-          },
-          "cat": {
-            "$type": "spacing",
-            "$value": "24px"
-          },
-          "dog": {
-            "$type": "spacing",
-            "$value": "28px"
-          },
-          "pig": {
-            "$type": "spacing",
-            "$value": "32px"
-          },
-          "tiger": {
-            "$type": "spacing",
-            "$value": "48px"
-          },
-          "horse": {
-            "$type": "spacing",
-            "$value": "64px"
-          },
-          "elephant": {
-            "$type": "spacing",
-            "$value": "96px"
-          },
-          "giraffe": {
-            "$type": "spacing",
-            "$value": "160px"
-          }
-        }
-      },
-      "border-radius": {
-        "sm": {
-          "$type": "borderRadius",
-          "$value": "4px"
-        },
-        "md": {
-          "$type": "borderRadius",
-          "$value": "8px"
-        },
-        "lg": {
-          "$type": "borderRadius",
-          "$value": "16px"
-        },
-        "round": {
-          "$type": "borderRadius",
-          "$value": "999px"
-        }
-      },
-      "border-width": {
-        "sm": {
-          "$type": "borderWidth",
-          "$value": "1px"
-        },
-        "md": {
-          "$type": "borderWidth",
-          "$value": "2px"
-        },
-        "lg": {
-          "$type": "borderWidth",
-          "$value": "4px"
-        }
-      },
-      "size": {
-        "5xs": {
-          "$type": "sizing",
-          "$value": "2px"
-        },
-        "4xs": {
-          "$type": "sizing",
-          "$value": "4px"
-        },
-        "3xs": {
-          "$type": "sizing",
-          "$value": "8px"
-        },
-        "2xs": {
-          "$type": "sizing",
-          "$value": "16px"
-        },
-        "xs": {
-          "$type": "sizing",
-          "$value": "24px"
-        },
-        "sm": {
-          "$type": "sizing",
-          "$value": "32px"
-        },
-        "md": {
-          "$type": "sizing",
-          "$value": "48px"
-        },
-        "lg": {
-          "$type": "sizing",
-          "$value": "64px"
-        },
-        "xl": {
-          "$type": "sizing",
-          "$value": "96px"
-        },
-        "2xl": {
-          "$type": "sizing",
-          "$value": "160px"
-        },
-        "icon": {
-          "sm": {
-            "$type": "sizing",
-            "$value": "16px"
-          },
-          "md": {
-            "$type": "sizing",
-            "$value": "24px"
-          },
-          "lg": {
-            "$type": "sizing",
-            "$value": "24px"
-          },
-          "xl": {
-            "$type": "sizing",
-            "$value": "24px"
-          },
-          "2xl": {
-            "$type": "sizing",
-            "$value": "32px"
-          },
-          "3xl": {
-            "$type": "sizing",
-            "$value": "40px"
-          },
-          "4xl": {
-            "$type": "sizing",
-            "$value": "48px"
-          }
-        }
-      },
-      "box-shadow": {
-        "sm": {
-          "$type": "boxShadow",
-          "$value": {
-            "x": "0",
-            "y": "2",
-            "blur": "6",
-            "spread": "0",
-            "color": "{voorbeeld.color.dark.alpha.100}",
-            "type": "dropShadow"
-          }
-        },
-        "md": {
-          "$type": "boxShadow",
-          "$value": {
-            "x": "0",
-            "y": "8",
-            "blur": "16",
-            "spread": "0",
-            "color": "{voorbeeld.color.dark.alpha.100}",
-            "type": "dropShadow"
-          }
-        },
-        "lg": {
-          "$type": "boxShadow",
-          "$value": {
-            "x": "0",
-            "y": "16",
-            "blur": "48",
-            "spread": "0",
-            "color": "{voorbeeld.color.dark.alpha.100}",
-            "type": "dropShadow"
-          }
-        }
       }
     }
   },
@@ -918,11 +920,11 @@
       "document": {
         "background-color": {
           "$type": "color",
-          "$value": "{voorbeeld.color.white}"
+          "$value": "{icatt.color.white}"
         },
         "color": {
           "$type": "color",
-          "$value": "{voorbeeld.color.gray.900}"
+          "$value": "{icatt.color.gray.900}"
         },
         "font-family": {
           "$type": "fontFamilies",
@@ -952,7 +954,7 @@
         },
         "color": {
           "$type": "color",
-          "$value": "{voorbeeld.color.gray.900}"
+          "$value": "{icatt.color.gray.900}"
         }
       },
       "form-control": {
@@ -962,11 +964,11 @@
         },
         "background-color": {
           "$type": "color",
-          "$value": "{voorbeeld.color.white}"
+          "$value": "{icatt.color.white}"
         },
         "border-color": {
           "$type": "color",
-          "$value": "{voorbeeld.color.gray.500}"
+          "$value": "{icatt.color.gray.500}"
         },
         "border-width": {
           "$type": "borderWidth",
@@ -974,34 +976,34 @@
         },
         "color": {
           "$type": "color",
-          "$value": "{voorbeeld.color.gray.950}"
+          "$value": "{icatt.color.gray.950}"
         },
         "disabled": {
           "background-color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.gray.50}"
+            "$value": "{icatt.color.gray.50}"
           },
           "border-color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.gray.500}"
+            "$value": "{icatt.color.gray.500}"
           },
           "color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.gray.500}"
+            "$value": "{icatt.color.gray.500}"
           }
         },
         "focus": {
           "background-color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.white}"
+            "$value": "{icatt.color.white}"
           },
           "border-color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.black}"
+            "$value": "{icatt.color.black}"
           },
           "color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.black}"
+            "$value": "{icatt.color.black}"
           },
           "border-width": {
             "$type": "borderWidth",
@@ -1011,7 +1013,7 @@
         "invalid": {
           "background-color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.white}"
+            "$value": "{icatt.color.white}"
           },
           "border-color": {
             "$type": "color",
@@ -1029,7 +1031,7 @@
         "read-only": {
           "background-color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.gray.50}"
+            "$value": "{icatt.color.gray.50}"
           },
           "border-color": {
             "$type": "color",
@@ -1037,13 +1039,13 @@
           },
           "color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.gray.950}"
+            "$value": "{icatt.color.gray.950}"
           }
         },
         "placeholder": {
           "color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.gray.600}"
+            "$value": "{icatt.color.gray.600}"
           }
         },
         "border-radius": {
@@ -1086,20 +1088,20 @@
       "focus": {
         "background-color": {
           "$type": "color",
-          "$value": "{voorbeeld.color.yellow.200}"
+          "$value": "{icatt.color.yellow.200}"
         },
         "color": {
           "$type": "color",
-          "$value": "{voorbeeld.color.black}"
+          "$value": "{icatt.color.black}"
         },
         "outline-color": {
           "$type": "color",
-          "$value": "{voorbeeld.color.violet.700}"
+          "$value": "{icatt.color.violet.700}"
         },
         "inverse": {
           "outline-color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.white}"
+            "$value": "{icatt.color.white}"
           }
         },
         "outline-offset": {
@@ -1125,15 +1127,15 @@
         "warning": {
           "background-color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.yellow.100}"
+            "$value": "{icatt.color.yellow.100}"
           },
           "border-color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.yellow.600}"
+            "$value": "{icatt.color.yellow.600}"
           },
           "color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.yellow.600}"
+            "$value": "{icatt.color.yellow.600}"
           }
         }
       }
@@ -1142,7 +1144,7 @@
       "root": {
         "background-color": {
           "$type": "color",
-          "$value": "{voorbeeld.color.gray.50}"
+          "$value": "{icatt.color.gray.50}"
         }
       },
       "container": {
@@ -1152,7 +1154,7 @@
         },
         "border-color": {
           "$type": "color",
-          "$value": "{voorbeeld.color.gray.300}"
+          "$value": "{icatt.color.gray.300}"
         }
       },
       "line": {
@@ -1162,7 +1164,7 @@
         },
         "border-color": {
           "$type": "color",
-          "$value": "{voorbeeld.color.gray.300}"
+          "$value": "{icatt.color.gray.300}"
         }
       },
       "form-control": {
@@ -1177,15 +1179,15 @@
           },
           "background-color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.gray.100}"
+            "$value": "{icatt.color.gray.100}"
           },
           "border-color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.gray.500}"
+            "$value": "{icatt.color.gray.500}"
           },
           "color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.gray.950}"
+            "$value": "{icatt.color.gray.950}"
           }
         },
         "hover": {
@@ -1199,15 +1201,15 @@
           },
           "background-color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.gray.50}"
+            "$value": "{icatt.color.gray.50}"
           },
           "border-color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.gray.500}"
+            "$value": "{icatt.color.gray.500}"
           },
           "color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.gray.950}"
+            "$value": "{icatt.color.gray.950}"
           }
         },
         "accent-color": {
@@ -1217,7 +1219,7 @@
         "disabled": {
           "accent-color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.gray.500}"
+            "$value": "{icatt.color.gray.500}"
           }
         }
       },
@@ -1225,17 +1227,17 @@
         "inverse": {
           "background-color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.gray.950}"
+            "$value": "{icatt.color.gray.950}"
           },
           "color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.white}"
+            "$value": "{icatt.color.white}"
           }
         },
         "subtle": {
           "color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.gray.600}"
+            "$value": "{icatt.color.gray.600}"
           }
         },
         "strong": {
@@ -1248,18 +1250,18 @@
       "interaction": {
         "color": {
           "$type": "color",
-          "$value": "{voorbeeld.color.violet.700}"
+          "$value": "{icatt.color.violet.700}"
         },
         "active": {
           "color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.violet.900}"
+            "$value": "{icatt.color.violet.900}"
           }
         },
         "hover": {
           "color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.violet.800}"
+            "$value": "{icatt.color.violet.800}"
           }
         }
       },
@@ -1281,43 +1283,43 @@
         "informative": {
           "background-color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.blue.100}"
+            "$value": "{icatt.color.blue.100}"
           },
           "border-color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.blue.600}"
+            "$value": "{icatt.color.blue.600}"
           },
           "color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.blue.600}"
+            "$value": "{icatt.color.blue.600}"
           }
         },
         "negative": {
           "background-color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.red.100}"
+            "$value": "{icatt.color.red.100}"
           },
           "border-color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.red.600}"
+            "$value": "{icatt.color.red.600}"
           },
           "color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.red.600}"
+            "$value": "{icatt.color.red.600}"
           }
         },
         "positive": {
           "background-color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.green.100}"
+            "$value": "{icatt.color.green.100}"
           },
           "border-color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.green.600}"
+            "$value": "{icatt.color.green.600}"
           },
           "color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.green.600}"
+            "$value": "{icatt.color.green.600}"
           }
         }
       },
@@ -1415,7 +1417,7 @@
           },
           "background-color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.gray.50}"
+            "$value": "{icatt.color.gray.50}"
           },
           "border-color": {
             "$type": "color",
@@ -1428,7 +1430,7 @@
           "hover": {
             "background-color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.gray.100}"
+              "$value": "{icatt.color.gray.100}"
             },
             "border-color": {
               "$type": "color",
@@ -1456,7 +1458,7 @@
           "active": {
             "background-color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.gray.200}"
+              "$value": "{icatt.color.gray.200}"
             },
             "border-color": {
               "$type": "color",
@@ -1668,7 +1670,7 @@
           "hover": {
             "background-color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.gray.100}"
+              "$value": "{icatt.color.gray.100}"
             }
           },
           "details": {
@@ -1900,7 +1902,7 @@
         },
         "color": {
           "$type": "color",
-          "$value": "{voorbeeld.color.white}"
+          "$value": "{icatt.color.white}"
         },
         "text": {
           "font-family": {
@@ -1939,7 +1941,7 @@
           },
           "color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.white}"
+            "$value": "{icatt.color.white}"
           }
         }
       }
@@ -1950,11 +1952,11 @@
       "backdrop": {
         "background-color": {
           "$type": "color",
-          "$value": "{voorbeeld.color.black}"
+          "$value": "{icatt.color.black}"
         },
         "color": {
           "$type": "color",
-          "$value": "{voorbeeld.color.white}"
+          "$value": "{icatt.color.white}"
         },
         "opacity": {
           "$type": "opacity",
@@ -2232,7 +2234,7 @@
           "disabled": {
             "color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.gray.500}"
+              "$value": "{icatt.color.gray.500}"
             }
           },
           "current": {
@@ -2284,11 +2286,11 @@
         },
         "border-color": {
           "$type": "color",
-          "$value": "{voorbeeld.color.gray.900}"
+          "$value": "{icatt.color.gray.900}"
         },
         "color": {
           "$type": "color",
-          "$value": "{voorbeeld.color.gray.900}"
+          "$value": "{icatt.color.gray.900}"
         },
         "border-radius": {
           "$type": "borderRadius",
@@ -2339,7 +2341,7 @@
         "disabled": {
           "background-color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.gray.50}"
+            "$value": "{icatt.color.gray.50}"
           },
           "border-color": {
             "$type": "color",
@@ -2347,7 +2349,7 @@
           },
           "color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.gray.500}"
+            "$value": "{icatt.color.gray.500}"
           }
         },
         "focus": {
@@ -2367,7 +2369,7 @@
         "hover": {
           "background-color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.gray.50}"
+            "$value": "{icatt.color.gray.50}"
           },
           "border-color": {
             "$type": "color",
@@ -2381,7 +2383,7 @@
         "active": {
           "background-color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.gray.100}"
+            "$value": "{icatt.color.gray.100}"
           },
           "border-color": {
             "$type": "color",
@@ -2416,7 +2418,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.white}"
+              "$value": "{icatt.color.white}"
             }
           },
           "background-color": {
@@ -2429,12 +2431,12 @@
           },
           "color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.white}"
+            "$value": "{icatt.color.white}"
           },
           "disabled": {
             "background-color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.gray.50}"
+              "$value": "{icatt.color.gray.50}"
             },
             "border-color": {
               "$type": "color",
@@ -2442,7 +2444,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.gray.500}"
+              "$value": "{icatt.color.gray.500}"
             }
           },
           "focus": {
@@ -2474,7 +2476,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.white}"
+              "$value": "{icatt.color.white}"
             }
           },
           "font-size": {
@@ -2490,7 +2492,7 @@
           "hover": {
             "background-color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.gray.50}"
+              "$value": "{icatt.color.gray.50}"
             },
             "border-color": {
               "$type": "color",
@@ -2503,7 +2505,7 @@
           },
           "background-color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.white}"
+            "$value": "{icatt.color.white}"
           },
           "border-color": {
             "$type": "color",
@@ -2516,7 +2518,7 @@
           "disabled": {
             "background-color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.gray.50}"
+              "$value": "{icatt.color.gray.50}"
             },
             "border-color": {
               "$type": "color",
@@ -2524,7 +2526,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.gray.500}"
+              "$value": "{icatt.color.gray.500}"
             }
           },
           "focus": {
@@ -2548,7 +2550,7 @@
           "active": {
             "background-color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.gray.100}"
+              "$value": "{icatt.color.gray.100}"
             },
             "border-color": {
               "$type": "color",
@@ -2580,7 +2582,7 @@
           "hover": {
             "background-color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.dark.alpha.50}"
+              "$value": "{icatt.color.dark.alpha.50}"
             },
             "border-color": {
               "$type": "color",
@@ -2606,7 +2608,7 @@
           "disabled": {
             "background-color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.gray.50}"
+              "$value": "{icatt.color.gray.50}"
             },
             "border-color": {
               "$type": "color",
@@ -2614,7 +2616,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.gray.500}"
+              "$value": "{icatt.color.gray.500}"
             }
           },
           "focus": {
@@ -2634,7 +2636,7 @@
           "active": {
             "background-color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.dark.alpha.100}"
+              "$value": "{icatt.color.dark.alpha.100}"
             },
             "border-color": {
               "$type": "color",
@@ -2734,12 +2736,12 @@
         },
         "background-color": {
           "$type": "color",
-          "$value": "{voorbeeld.color.violet.200}"
+          "$value": "{icatt.color.violet.200}"
         },
         "read-only": {
           "background-color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.gray.100}"
+            "$value": "{icatt.color.gray.100}"
           },
           "color": {
             "$type": "color",
@@ -2748,26 +2750,26 @@
           "hover": {
             "background-color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.gray.200}"
+              "$value": "{icatt.color.gray.200}"
             }
           },
           "active": {
             "background-color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.gray.300}"
+              "$value": "{icatt.color.gray.300}"
             }
           }
         },
         "hover": {
           "background-color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.violet.300}"
+            "$value": "{icatt.color.violet.300}"
           }
         },
         "active": {
           "background-color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.violet.400}"
+            "$value": "{icatt.color.violet.400}"
           }
         },
         "min-block-size": {
@@ -2788,42 +2790,42 @@
           "folder": {
             "background-color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.violet.300}"
+              "$value": "{icatt.color.violet.300}"
             },
             "read-only": {
               "background-color": {
                 "$type": "color",
-                "$value": "{voorbeeld.color.gray.200}"
+                "$value": "{icatt.color.gray.200}"
               },
               "hover": {
                 "background-color": {
                   "$type": "color",
-                  "$value": "{voorbeeld.color.gray.300}"
+                  "$value": "{icatt.color.gray.300}"
                 }
               },
               "active": {
                 "background-color": {
                   "$type": "color",
-                  "$value": "{voorbeeld.color.gray.400}"
+                  "$value": "{icatt.color.gray.400}"
                 }
               }
             },
             "active": {
               "background-color": {
                 "$type": "color",
-                "$value": "{voorbeeld.color.violet.500}"
+                "$value": "{icatt.color.violet.500}"
               }
             },
             "hover": {
               "background-color": {
                 "$type": "color",
-                "$value": "{voorbeeld.color.violet.400}"
+                "$value": "{icatt.color.violet.400}"
               }
             },
             "focus-visible": {
               "background-color": {
                 "$type": "color",
-                "$value": "{voorbeeld.color.yellow.300}"
+                "$value": "{icatt.color.yellow.300}"
               }
             }
           }
@@ -2959,7 +2961,7 @@
           },
           "color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.white}"
+            "$value": "{icatt.color.white}"
           }
         },
         "indeterminate": {
@@ -2977,7 +2979,7 @@
           },
           "color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.white}"
+            "$value": "{icatt.color.white}"
           }
         }
       }
@@ -3018,7 +3020,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.white}"
+              "$value": "{icatt.color.white}"
             }
           },
           "active": {
@@ -3036,7 +3038,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.white}"
+              "$value": "{icatt.color.white}"
             }
           },
           "disabled": {
@@ -3050,7 +3052,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.white}"
+              "$value": "{icatt.color.white}"
             }
           }
         },
@@ -3070,7 +3072,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.white}"
+              "$value": "{icatt.color.white}"
             }
           },
           "hover": {
@@ -3088,7 +3090,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.white}"
+              "$value": "{icatt.color.white}"
             }
           },
           "focus-visible": {
@@ -3120,7 +3122,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.white}"
+              "$value": "{icatt.color.white}"
             }
           }
         }
@@ -3150,7 +3152,7 @@
       "code": {
         "background-color": {
           "$type": "color",
-          "$value": "{voorbeeld.color.gray.100}"
+          "$value": "{icatt.color.gray.100}"
         },
         "color": {
           "$type": "color",
@@ -3170,7 +3172,7 @@
       "code": {
         "background-color": {
           "$type": "color",
-          "$value": "{voorbeeld.color.gray.100}"
+          "$value": "{icatt.color.gray.100}"
         },
         "color": {
           "$type": "color",
@@ -3196,7 +3198,7 @@
       "code-block": {
         "background-color": {
           "$type": "color",
-          "$value": "{voorbeeld.color.gray.100}"
+          "$value": "{icatt.color.gray.100}"
         },
         "border-radius": {
           "$type": "borderRadius",
@@ -3232,7 +3234,7 @@
       "code-block": {
         "background-color": {
           "$type": "color",
-          "$value": "{voorbeeld.color.gray.100}"
+          "$value": "{icatt.color.gray.100}"
         },
         "color": {
           "$type": "color",
@@ -3504,7 +3506,7 @@
       "data-badge": {
         "background-color": {
           "$type": "color",
-          "$value": "{voorbeeld.color.violet.100}"
+          "$value": "{icatt.color.violet.100}"
         },
         "border-color": {
           "$type": "color",
@@ -3576,7 +3578,7 @@
         },
         "background-color": {
           "$type": "color",
-          "$value": "{voorbeeld.color.violet.100}"
+          "$value": "{icatt.color.violet.100}"
         },
         "color": {
           "$type": "color",
@@ -3847,7 +3849,7 @@
         "left": {
           "background-color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.gray.100}"
+            "$value": "{icatt.color.gray.100}"
           },
           "padding-inline-end": {
             "$type": "spacing",
@@ -4055,7 +4057,7 @@
         "disabled": {
           "color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.gray.600}"
+            "$value": "{icatt.color.gray.600}"
           }
         },
         "radio": {
@@ -4139,7 +4141,7 @@
         "disabled": {
           "color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.gray.600}"
+            "$value": "{icatt.color.gray.600}"
           }
         }
       }
@@ -4851,7 +4853,7 @@
         "subheading": {
           "color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.gray.700}"
+            "$value": "{icatt.color.gray.700}"
           },
           "font-weight": {
             "$type": "fontWeights",
@@ -4985,7 +4987,7 @@
         "disabled": {
           "color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.gray.500}"
+            "$value": "{icatt.color.gray.500}"
           },
           "cursor": {
             "$type": "other",
@@ -5133,7 +5135,7 @@
         "active": {
           "background-color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.gray.100}"
+            "$value": "{icatt.color.gray.100}"
           },
           "border-color": {
             "$type": "color",
@@ -5146,7 +5148,7 @@
         },
         "background-color": {
           "$type": "color",
-          "$value": "{voorbeeld.color.white}"
+          "$value": "{icatt.color.white}"
         },
         "border-color": {
           "$type": "color",
@@ -5167,7 +5169,7 @@
         "hover": {
           "background-color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.gray.50}"
+            "$value": "{icatt.color.gray.50}"
           },
           "border-color": {
             "$type": "color",
@@ -5288,7 +5290,7 @@
       "mark": {
         "background-color": {
           "$type": "color",
-          "$value": "{voorbeeld.color.yellow.100}"
+          "$value": "{icatt.color.yellow.100}"
         },
         "color": {
           "$type": "color",
@@ -5470,7 +5472,7 @@
       "number-badge": {
         "background-color": {
           "$type": "color",
-          "$value": "{voorbeeld.color.violet.100}"
+          "$value": "{icatt.color.violet.100}"
         },
         "border-color": {
           "$type": "color",
@@ -5542,7 +5544,7 @@
         },
         "background-color": {
           "$type": "color",
-          "$value": "{voorbeeld.color.violet.100}"
+          "$value": "{icatt.color.violet.100}"
         },
         "color": {
           "$type": "color",
@@ -5730,7 +5732,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.gray.500}"
+              "$value": "{icatt.color.gray.500}"
             }
           }
         },
@@ -5754,7 +5756,7 @@
             },
             "background-color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.gray.100}"
+              "$value": "{icatt.color.gray.100}"
             },
             "border-color": {
               "$type": "color",
@@ -5978,7 +5980,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.gray.500}"
+              "$value": "{icatt.color.gray.500}"
             }
           },
           "text-transform": {
@@ -5998,7 +6000,7 @@
           "current": {
             "background-color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.gray.100}"
+              "$value": "{icatt.color.gray.100}"
             },
             "border-color": {
               "$type": "color",
@@ -6226,7 +6228,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.white}"
+              "$value": "{icatt.color.white}"
             },
             "border-color": {
               "$type": "color",
@@ -6236,7 +6238,7 @@
           "not-checked": {
             "background-color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.white}"
+              "$value": "{icatt.color.white}"
             },
             "color": {
               "$type": "color",
@@ -6250,11 +6252,11 @@
           "current": {
             "background-color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.violet.600}"
+              "$value": "{icatt.color.violet.600}"
             },
             "color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.white}"
+              "$value": "{icatt.color.white}"
             },
             "border-color": {
               "$type": "color",
@@ -6268,7 +6270,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.white}"
+              "$value": "{icatt.color.white}"
             },
             "border-color": {
               "$type": "color",
@@ -6282,7 +6284,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.white}"
+              "$value": "{icatt.color.white}"
             },
             "border-color": {
               "$type": "color",
@@ -6376,7 +6378,7 @@
           "current": {
             "color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.violet.600}"
+              "$value": "{icatt.color.violet.600}"
             }
           },
           "error": {
@@ -6445,18 +6447,18 @@
             "current": {
               "color": {
                 "$type": "color",
-                "$value": "{voorbeeld.color.violet.600}"
+                "$value": "{icatt.color.violet.600}"
               },
               "active": {
                 "color": {
                   "$type": "color",
-                  "$value": "{voorbeeld.color.violet.800}"
+                  "$value": "{icatt.color.violet.800}"
                 }
               },
               "hover": {
                 "color": {
                   "$type": "color",
-                  "$value": "{voorbeeld.color.violet.700}"
+                  "$value": "{icatt.color.violet.700}"
                 }
               },
               "focus-visible": {
@@ -6474,13 +6476,13 @@
               "active": {
                 "color": {
                   "$type": "color",
-                  "$value": "{voorbeeld.color.yellow.800}"
+                  "$value": "{icatt.color.yellow.800}"
                 }
               },
               "hover": {
                 "color": {
                   "$type": "color",
-                  "$value": "{voorbeeld.color.yellow.700}"
+                  "$value": "{icatt.color.yellow.700}"
                 }
               },
               "focus-visible": {
@@ -6498,13 +6500,13 @@
               "active": {
                 "color": {
                   "$type": "color",
-                  "$value": "{voorbeeld.color.red.800}"
+                  "$value": "{icatt.color.red.800}"
                 }
               },
               "hover": {
                 "color": {
                   "$type": "color",
-                  "$value": "{voorbeeld.color.red.700}"
+                  "$value": "{icatt.color.red.700}"
                 }
               },
               "focus-visible": {
@@ -6579,7 +6581,7 @@
             "active": {
               "color": {
                 "$type": "color",
-                "$value": "{voorbeeld.color.violet.800}"
+                "$value": "{icatt.color.violet.800}"
               },
               "background-color": {
                 "$type": "color",
@@ -6593,7 +6595,7 @@
             "hover": {
               "color": {
                 "$type": "color",
-                "$value": "{voorbeeld.color.violet.700}"
+                "$value": "{icatt.color.violet.700}"
               },
               "background-color": {
                 "$type": "color",
@@ -6631,7 +6633,7 @@
             "active": {
               "color": {
                 "$type": "color",
-                "$value": "{voorbeeld.color.yellow.800}"
+                "$value": "{icatt.color.yellow.800}"
               },
               "background-color": {
                 "$type": "color",
@@ -6645,7 +6647,7 @@
             "hover": {
               "color": {
                 "$type": "color",
-                "$value": "{voorbeeld.color.yellow.700}"
+                "$value": "{icatt.color.yellow.700}"
               },
               "background-color": {
                 "$type": "color",
@@ -6683,7 +6685,7 @@
             "active": {
               "color": {
                 "$type": "color",
-                "$value": "{voorbeeld.color.red.800}"
+                "$value": "{icatt.color.red.800}"
               },
               "background-color": {
                 "$type": "color",
@@ -6697,7 +6699,7 @@
             "hover": {
               "color": {
                 "$type": "color",
-                "$value": "{voorbeeld.color.red.700}"
+                "$value": "{icatt.color.red.700}"
               },
               "background-color": {
                 "$type": "color",
@@ -6848,7 +6850,7 @@
           "current": {
             "color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.violet.600}"
+              "$value": "{icatt.color.violet.600}"
             }
           },
           "checked": {
@@ -6898,7 +6900,7 @@
           "current": {
             "background-color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.violet.600}"
+              "$value": "{icatt.color.violet.600}"
             },
             "border-color": {
               "$type": "color",
@@ -6982,7 +6984,7 @@
           "current": {
             "border-color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.violet.600}"
+              "$value": "{icatt.color.violet.600}"
             }
           },
           "checked": {
@@ -7137,7 +7139,7 @@
           },
           "color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.white}"
+            "$value": "{icatt.color.white}"
           },
           "active": {
             "background-color": {
@@ -7154,7 +7156,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.white}"
+              "$value": "{icatt.color.white}"
             }
           },
           "focus": {
@@ -7190,7 +7192,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.white}"
+              "$value": "{icatt.color.white}"
             }
           }
         }
@@ -7210,7 +7212,7 @@
             },
             "color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.white}"
+              "$value": "{icatt.color.white}"
             }
           }
         }
@@ -7702,7 +7704,7 @@
         },
         "background-color": {
           "$type": "color",
-          "$value": "{voorbeeld.color.violet.100}"
+          "$value": "{icatt.color.violet.100}"
         },
         "border-color": {
           "$type": "color",
@@ -7751,7 +7753,7 @@
         "current": {
           "background-color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.violet.600}"
+            "$value": "{icatt.color.violet.600}"
           },
           "border-color": {
             "$type": "color",
@@ -7805,7 +7807,7 @@
         "disabled": {
           "background-color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.gray.50}"
+            "$value": "{icatt.color.gray.50}"
           },
           "border-color": {
             "$type": "color",
@@ -7813,7 +7815,7 @@
           },
           "color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.gray.500}"
+            "$value": "{icatt.color.gray.500}"
           }
         },
         "error": {
@@ -7925,18 +7927,18 @@
         "track": {
           "background-color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.gray.500}"
+            "$value": "{icatt.color.gray.500}"
           },
           "active": {
             "background-color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.gray.700}"
+              "$value": "{icatt.color.gray.700}"
             }
           },
           "hover": {
             "background-color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.gray.600}"
+              "$value": "{icatt.color.gray.600}"
             }
           },
           "focus-visible": {
@@ -7948,24 +7950,24 @@
           "disabled": {
             "background-color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.gray.300}"
+              "$value": "{icatt.color.gray.300}"
             }
           },
           "checked": {
             "background-color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.green.500}"
+              "$value": "{icatt.color.green.500}"
             },
             "hover": {
               "background-color": {
                 "$type": "color",
-                "$value": "{voorbeeld.color.green.600}"
+                "$value": "{icatt.color.green.600}"
               }
             },
             "active": {
               "background-color": {
                 "$type": "color",
-                "$value": "{voorbeeld.color.green.700}"
+                "$value": "{icatt.color.green.700}"
               }
             },
             "focus-visible": {
@@ -7977,7 +7979,7 @@
             "disabled": {
               "background-color": {
                 "$type": "color",
-                "$value": "{voorbeeld.color.gray.300}"
+                "$value": "{icatt.color.gray.300}"
               }
             }
           },
@@ -8005,7 +8007,7 @@
         "icon": {
           "color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.white}"
+            "$value": "{icatt.color.white}"
           },
           "focus-visible": {
             "color": {
@@ -8016,7 +8018,7 @@
           "disabled": {
             "color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.gray.600}"
+              "$value": "{icatt.color.gray.600}"
             }
           },
           "size": {
@@ -8032,7 +8034,7 @@
           "disabled": {
             "background-color": {
               "$type": "color",
-              "$value": "{voorbeeld.color.white}"
+              "$value": "{icatt.color.white}"
             },
             "box-shadow": {
               "$type": "boxShadow",
@@ -8041,7 +8043,7 @@
           },
           "background-color": {
             "$type": "color",
-            "$value": "{voorbeeld.color.white}"
+            "$value": "{icatt.color.white}"
           },
           "border-color": {
             "$type": "color",
